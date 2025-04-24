@@ -9,11 +9,12 @@ This repo is all about showing up every day 🚀
 
 ## 🗂️ Folder Structure
 
+````text
 leetcode-diary/
-├── templates/ # Daily problem template
-│ └── daily-template.js
-├── topics/ # Topic-wise solved problems
-│  
+├── templates/             # Problem solving template
+│   └── daily-template.js
+├── topics/                # Problems organized by topic
+│
 └── README.md
 
 ---
@@ -56,6 +57,6 @@ leetcode-diary/
 	•	Version Control: Git + GitHub
 
 🙌 Let’s Connect
-	•	👨‍💻 GitHub: @raj-7h
+• [GitHub: @raj-7h](https://github.com/raj-7h)
 
-```
+````
