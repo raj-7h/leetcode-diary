@@ -1,13 +1,9 @@
-<h1 align="center">🚀 LeetCode Diary</h1>
+# 🚀 LeetCode Diary
 
-<p align="center">
-  <strong>Welcome to my personal <i>LeetCode Diary</i></strong> — a daily log of the problems I solve while learning and improving my Data Structures & Algorithms skills. This repo is structured <strong>topic-wise</strong> for clarity and also includes <strong>daily logs</strong> to track my consistency. ✨
-</p>
-
-<p align="center">
-  <i>Track. Solve. Grow. One problem at a time.</i><br>
-  <strong>🧠 Daily LeetCode grind with clean structure & smart logging</strong>
-</p>
+Welcome to my personal **LeetCode Diary** — a daily log of the problems I solve while learning and improving my Data Structures & Algorithms skills.  
+This repo is organized **by topic** to keep it simple and includes **daily logs** to stay consistent.  
+✨ _“Consistency is more important than intensity.”_  
+This repo is all about showing up every day 🚀
 
 ---
 
@@ -61,4 +57,5 @@ leetcode-diary/
 
 🙌 Let’s Connect
 	•	👨‍💻 GitHub: @raj-7h
+
 ```
