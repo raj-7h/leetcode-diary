@@ -57,6 +57,6 @@ leetcode-diary/
 	•	Version Control: Git + GitHub
 
 🙌 Let’s Connect
-• [@raj-7h](https://github.com/raj-7h)
+• [**raj-7h**](https://github.com/raj-7h)
 
 ````
