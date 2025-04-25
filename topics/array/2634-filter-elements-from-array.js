@@ -26,17 +26,31 @@ fn can also accept the index of each element
 In this case, the function removes elements not at index 0
  *
  * 💡 Approach:
- * [To solve this problem I use array Built-in function `.filter`. with the help
- * of this built-in function we can filter elements from the array based on conditions,
- * Here, I use the function `fn` to filter the elements]
+ * [	•	Create one variable and one empty array:
+	      •	newArray – to store the final result
+	      •	index – to iterate through the array using a while loop
+	•	Enter the while loop:
+	  •	In each iteration:
+	    •	Call the function fn with parameters arr[index] and index, and wrap it inside Boolean() to ensure a truthy/falsy output
+	    •	Use the ternary operator:
+	      •	If the result is true, push arr[index] into newArray
+	      •	Otherwise, do nothing
+	    •	Increment index to move to the next element
+	•	After the loop ends, return newArray]
  *
  */
+/**
 /**
  * @param {number[]} arr
  * @param {Function} fn
  * @return {number[]}
  */
 var filter = function (arr, fn) {
-  const newArray = arr.filter(fn);
+  var index = 0;
+  let newArray = [];
+  while (index < arr.length) {
+    Boolean(fn(arr[index], index)) ? newArray.push(arr[index]) : null;
+    index++;
+  }
   return newArray;
 };

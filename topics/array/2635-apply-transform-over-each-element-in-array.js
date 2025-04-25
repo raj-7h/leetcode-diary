@@ -20,17 +20,29 @@ Output: [1,3,5]
 Explanation: The function increases each value by the index it resides in.
  *
  * 💡 Approach:
- * [I just use array Built-in function `.map()`,
- *  with this fuction we can update every single element of the array,
- * Here, we are using the function fn to update the element of the array `arr`]
+ * [	•	Create one variable and one empty array:
+	      •	newArray – to store the final result
+	      •	index – to iterate through the array using a while loop
+	•	Enter the while loop:
+	  •	In each iteration:
+	    •	push the value returned by the fn function
+      • As parameter to fn, pass array [index] and index
+	  •	Increment index to move to the next element
+	•	After the loop ends, return newArray]
  *
  */
+/**
 /**
  * @param {number[]} arr
  * @param {Function} fn
  * @return {number[]}
  */
 var map = function (arr, fn) {
-  const arr1 = arr.map(fn);
-  return arr1;
+  var newArray = [];
+  let index = 0;
+  while (index < arr.length) {
+    newArray.push(fn(arr[index], index));
+    index++;
+  }
+  return newArray;
 };
