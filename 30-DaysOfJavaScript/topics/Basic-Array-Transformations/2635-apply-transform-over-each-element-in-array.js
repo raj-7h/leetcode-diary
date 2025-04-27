@@ -7,7 +7,7 @@
  * 🧠 Description:
  * [Given an integer array arr and a mapping function fn, 
  * return a new array with a transformation applied to each element.]
- *
+ 
  * 🧪 Examples:
  * Input: arr = [1,2,3], fn = function plusone(n) { return n + 1; }
 Output: [2,3,4]
