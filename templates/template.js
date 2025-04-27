@@ -8,8 +8,8 @@
  * [Write a short summary or copy the description from LeetCode]
  *
  * 🧪 Examples:
- * Input: ...
- * Output: ...
+ * Input:
+ * Output: 
  *
  * 💡 Approach:
  * [•	Create two variables:
