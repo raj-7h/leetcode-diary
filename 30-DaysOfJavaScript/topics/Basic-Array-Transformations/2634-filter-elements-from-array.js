@@ -24,7 +24,7 @@ Output: [1]
 Explanation:
 fn can also accept the index of each element
 In this case, the function removes elements not at index 0
- *
+ 
  * 💡 Approach:
  * [	•	Create one variable and one empty array:
 	      •	newArray – to store the final result
