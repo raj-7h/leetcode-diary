@@ -36,7 +36,7 @@ initially, the value is init=100.
 (105) + nums[2] * nums[2] = 114
 (114) + nums[3] * nums[3] = 130
 The final answer is 130.
- *
+ 
  * 💡 Approach:
  * [•	Create two variables:
 	    •	val to store the result
