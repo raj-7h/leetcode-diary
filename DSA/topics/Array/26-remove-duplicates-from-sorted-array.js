@@ -15,7 +15,7 @@
 [1,1,2]
  * Output: 
 [1,2]
- *
+ 
  * 💡 Approach:
  * [
  * 	•	Create a variable:

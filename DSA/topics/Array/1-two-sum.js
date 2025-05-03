@@ -1,8 +1,8 @@
 /**
- * ✅ Problem Name: [Replace with Problem Name]
- * ✅ LeetCode Problem Number: [Replace with Problem Number]
- * ✅ Difficulty: [Easy | Medium | Hard]
- * ✅ Date Solved: [YYYY-MM-DD]
+ * ✅ Problem Name: [Two Sum]
+ * ✅ LeetCode Problem Number: [1]
+ * ✅ Difficulty: [Easy]
+ * ✅ Date Solved: [2025-05-01]
  *
  * 🧠 Description:
  * [Write a short summary or copy the description from LeetCode]
