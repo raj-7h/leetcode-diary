@@ -21,7 +21,7 @@ Output: true
 Input: nums = [1,2,3,1,2,3], k = 2
 Output: false
  *
-💡 Approach:
+💡 Approach :
  * [•	Create a Map to store elements with their last seen index.
 	•	Iterate through the nums array using a for loop:
 	    •	If the current element already exists in the Map:
